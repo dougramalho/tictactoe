@@ -1,0 +1,31 @@
+{
+    "Players": [
+        {
+            "Id": "1",
+            "Name": "Player 1",
+            "Symbol": "fa-times",
+            "color": "#001f3f",
+            "Movements": []
+        },
+        {
+            "Id": "2",
+            "Name": "Player 2",
+            "Symbol": "fa fa-circle-o",
+            "color": "#85144b",
+            "Movements": []
+        }
+    ],
+    "CurrentPlayer": {
+            "Id": "1",
+            "Name": "Player 1",
+            "Symbol": "fa-times",
+            "color": "#001f3f",
+            "Movements": []
+    },
+    "Movements": 9,
+    "TotalMovements": 0,
+    "EndGame": {
+        "Player": {},
+        "Finish": false
+    }
+}
